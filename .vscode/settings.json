@@ -1,7 +1,7 @@
 {
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
-    "source.fixAll.stylelint": true
+    "source.fixAll.stylelint": "explicit"
   },
   "stylelint.enable": true,
   "stylelint.validate": ["css", "less", "postcss", "scss", "vue", "sass", "html"],
@@ -47,6 +47,7 @@
     "commitlint",
     "contentleft",
     "contentright",
+    "CSDN",
     "daterange",
     "datetimerange",
     "echarts",
@@ -79,6 +80,7 @@
     "truetype",
     "tuichu",
     "unplugin",
+    "unref",
     "VITE",
     "vuedraggable",
     "vueuse",
@@ -86,6 +88,8 @@
     "wangeditor",
     "xiala",
     "xiaoxi",
+    "Yahei",
+    "yiwen",
     "zhongyingwen",
     "zhuti"
   ]
